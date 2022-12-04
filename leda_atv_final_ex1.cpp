@@ -19,7 +19,7 @@ struct Stack {
   int qty;
 };
 
-// FUNÇÃO - EXIBIR QUANTIDADE DE ELEMENTOS
+// FUNÇÃO - EXIBIR QUANTIDADE DE ELEMENTOS DA PILHA
 int exibir_qtd(struct Stack *&pilha) { return pilha->qty; }
 
 // FUNÇÃO - VERIFICA SE A PILHA ESTÁ CHEIA
