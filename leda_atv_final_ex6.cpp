@@ -273,10 +273,12 @@ int main() {
       break;
       //----------------------------------------------------------------//
       case 3:
-        if(esta_vazia(inicio) == 1)
+        if(esta_vazia(inicio) == 1){
           break;
-        else
+        }
+        else {
           listar(inicio);
+        }
       break;
       //----------------------------------------------------------------//
       case 4:
