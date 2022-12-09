@@ -278,6 +278,7 @@ int main() {
         else
           listar(inicio);
       break;
+      //----------------------------------------------------------------//
       case 4:
         if(esta_vazia(inicio) == 1){
           break;
@@ -309,6 +310,7 @@ int main() {
       default:
         printf("\n- Opção Inválida!");
       break;
+      //----------------------------------------------------------------//
     }
   }
 }
