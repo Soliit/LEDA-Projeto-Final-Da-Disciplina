@@ -7,6 +7,7 @@ Projeto Final de LEDA (IFSP) - Resolução dos exercícios propostos no formato 
 Instale o compilador "MinGW-w64" em seu computador, baixe os arquivos dos códgos que deseja usar, abra um terminal, execute o comando gcc "caminho_do_arquivo" -o "nome_do_arquivo". Após isso execute o arquivo final criado pelo terminal da sua máquina, ou até mesmo no terminal de algum outro programa, como o do VScode.
 
 - 2° Alternativa
+
 Copie os códigos e os repasse para um compilador online (Você só poderá executá-los um por um, não cole todos os códigos no mesmo trecho de texto). Seguindo, compile e rode o código ao apertar o botão "Run".
 
 Compiladores Online
