@@ -5,8 +5,7 @@
 using namespace std;
 
 // ADS LEDA (17/12/2022) - PROJETO FINAL DA DISCIPLINA
-//- DUPLA: Daniel Alves Freitas (PT3020037) | Eduardo Brandão Ferrari
-//(PT3020312)
+//- DUPLA: Daniel Alves Freitas (PT3020037) | Eduardo Brandão Ferrari (PT3020312)
 
 // EXERCÍCIO 3) - SOLUÇÃO:
 
