@@ -13,4 +13,5 @@
 - Exercício 6): 
 
 Daniel (Criação das funções/métodos, função Main, Comentários)
+
 Eduardo (Definição das Structs, Ideias para marcar vnhos abertos em ocasiões epeciais)
