@@ -11,5 +11,3 @@
 - Exercício 4): 
 - Exercício 5): Eduardo
 - Exercício 6): Daniel
-
-# Ideias e Outras Observações:
