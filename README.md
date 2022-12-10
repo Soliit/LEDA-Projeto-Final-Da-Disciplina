@@ -14,7 +14,7 @@ Compiladores Online:
 - https://replit.com/
 - https://www.programiz.com/cpp-programming/online-compiler/ (Mais prático para C e C++)
 
-# Exercicio 1 - stackers_ex1.h
+# Exercicio 1 - solucao_ex1.h
 - Descrição: 
 
 Escreva uma biblioteca que implemente uma solução do tipo pilha para as seguintes estruturas:
