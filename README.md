@@ -1,6 +1,19 @@
 # LEDA-Projeto-Final-Da-Disciplina
 Projeto Final de LEDA (IFSP) - Resolução dos exercícios propostos no formato de programas C++. E demais informações sobre o desenvolvimento, ideias adotadas, instruções e contribuições da dupla.
 
+# Como faço para compilar e testar esses códigos?
+- 1° Alternativa:
+
+Instale o compilador "MinGW-w64" em seu computador, baixe os arquivos dos códgos que deseja usar, abra um terminal, execute o comando gcc "caminho_do_arquivo" -o "nome_do_arquivo". Após isso execute o arquivo final criado pelo terminal da sua máquina, ou até mesmo no terminal de algum outro programa, como o do VScode.
+
+- 2° Alternativa
+Copie os códigos e os repasse para um compilador online (Você só poderá executá-los um por um, não cole todos os códigos no mesmo trecho de texto). Seguindo, compile e rode o código ao apertar o botão "Run".
+
+Compiladores Online
+- https://replit.com/
+- https://www.programiz.com/cpp-programming/online-compiler/ (Mais prático para C e C++)
+
+
 # Exercicio 1 - stackers_ex1.h
 - Descrição: 
 
