@@ -14,7 +14,6 @@ Compiladores Online:
 - https://replit.com/
 - https://www.programiz.com/cpp-programming/online-compiler/ (Mais prático para C e C++)
 
-
 # Exercicio 1 - stackers_ex1.h
 - Descrição: 
 
