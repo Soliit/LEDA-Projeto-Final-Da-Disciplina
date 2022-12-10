@@ -10,5 +10,7 @@
 - Exercício 3): Daniel
 - Exercício 4): 
 - Exercício 5): Eduardo
-- Exercício 6): Daniel (Criação das funções/métodos, função Main, Comentários)
-                Eduardo (Definição das Structs, Ideias para marcar vnhos abertos em ocasiões epeciais)
+- Exercício 6): 
+
+Daniel (Criação das funções/métodos, função Main, Comentários)
+Eduardo (Definição das Structs, Ideias para marcar vnhos abertos em ocasiões epeciais)
