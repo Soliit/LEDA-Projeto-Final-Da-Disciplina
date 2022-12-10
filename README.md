@@ -10,7 +10,7 @@ Instale o compilador "MinGW-w64" em seu computador, baixe os arquivos dos códgo
 
 Copie os códigos e os repasse para um compilador online (Você só poderá executá-los um por um, não cole todos os códigos no mesmo trecho de texto). Seguindo, compile e rode o código ao apertar o botão "Run".
 
-Compiladores Online
+Compiladores Online:
 - https://replit.com/
 - https://www.programiz.com/cpp-programming/online-compiler/ (Mais prático para C e C++)
 
