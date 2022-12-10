@@ -1,25 +1,11 @@
 # LEDA-Projeto-Final-Da-Disciplina
 Projeto Final de LEDA (IFSP) - Resolução dos exercícios propostos no formato de programas C++. E demais informações sobre o desenvolvimento, ideias adotadas, instruções e contribuições da dupla.
 
-#Exercicio 1 - stackers_ex1.h
+# Exercicio 1 - stackers_ex1.h
 - Descrição: 
 
-(valor 1,5) Escreva uma biblioteca que implemente uma solução do tipo pilha para as seguintes estruturas:
-
-struct Node {
-    int number;
-    Node next;
-};
-
-struct Stack {
-    Node top;
-    
-    /* Determina a quantidade máxima de itens que a pilha pode comportar */
-    int max_items;
-
-    /* Indica a quantidade de elementos presentes na pilha */
-    int qty;
-};
+Escreva uma biblioteca que implemente uma solução do tipo pilha para as seguintes estruturas:
+...
 
 Em seguida, implemente métodos para:
 - Retornar a quantidade de elementos contidos na pilha
@@ -30,8 +16,19 @@ Em seguida, implemente métodos para:
 - Empilhar (inserir) um novo elemento na pilha
 - Desempilhar (retirar) um elemento da pilha
 
+# Exercicio 2 - solucao_ex2.h
 
-#Exercicio 2 - solucao_ex2.h
+Escreva uma biblioteca que implemente uma solução do tipo fila para as seguintes estruturas:
+...
+
+Em seguida, implemente métodos para:
+- Retornar a quantidade de elementos contidos na fila
+- Verificar se a fila está cheia
+- Verificar se a fila  está vazia
+- Verificar se um elemento está presente na fila
+- Exibir os elementos presentes na fila
+- Inserir um elemento na fila
+- Retirar um elemento da fila
 
 #Exercicio 3 - leda_projeto_final_ex3.cpp
 
