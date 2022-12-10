@@ -15,6 +15,6 @@
 
 - Exercício 6): 
 
-Daniel (Criação das funções/métodos, função Main, Comentários)
+Daniel (Criação das Funções/Métodos, Função Main e Comentários)
 
-Eduardo (Definição das Structs, Ideias para marcar vnhos abertos em ocasiões epeciais)
+Eduardo (Definição das Structs, e ideias para marcar vinhos abertos em ocasiões epeciais)
