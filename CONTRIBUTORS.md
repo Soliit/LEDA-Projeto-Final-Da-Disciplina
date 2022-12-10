@@ -1,4 +1,4 @@
-# Nomes da Dupla - Colaboradores do Projeto:
+# Colaboradores do Projeto - Nomes da Dupla:
 
 - Daniel Alves Freitas (PT3020037)
 - Eduardo Brandão Ferrari PT3020312)
