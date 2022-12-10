@@ -6,10 +6,10 @@
 # Divisões de Tarefas:
 
 - Exercício 1): Daniel
-- Exercício 2):
-- Exercício 3):
-- Exercício 4):
-- Exercício 5):
-- Exercício 6):
+- Exercício 2): Eduardo
+- Exercício 3): Daniel
+- Exercício 4): 
+- Exercício 5): Eduardo
+- Exercício 6): Daniel
 
 # Ideias e Outras Observações:
