@@ -226,13 +226,13 @@ int main() {
 
   while (op != 0) {
     cout << "\n\n____________________________________\n"
-            "|_______________ADEGA________|- □ x|\n"
-            "|⚬[1] - Guardar um vinho novo     ||\n"
-            "|⚬[2] - Abrir um vinho            ||\n"
-            "|⚬[3] - Listar todos os vinhos    ||\n"
-            "|⚬[4] - 5 Aquisições mais antigas ||\n"
-            "|⚬[5] - 5 Aquisições mais novas   ||\n"
-            "------------------------------------\n\n";
+                "|_______________ADEGA________|- □ x|\n"
+                "|⚬[1] - Guardar um vinho novo     ||\n"
+                "|⚬[2] - Abrir um vinho            ||\n"
+                "|⚬[3] - Listar todos os vinhos    ||\n"
+                "|⚬[4] - 5 Aquisições mais antigas ||\n"
+                "|⚬[5] - 5 Aquisições mais novas   ||\n"
+                "------------------------------------\n\n";
 
     cout << "- Escolha uma operação: ";
     cin >> op;
